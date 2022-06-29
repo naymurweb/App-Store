@@ -11,7 +11,7 @@ svg {
 }
 
 .banner{
-    margin-top: 150px;
+   margin: 150px 0;
 }
 #svg2{
     background-image: linear-gradient(90deg, #2937f0, #9f1ae2);
