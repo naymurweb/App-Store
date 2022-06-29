@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+svg {
+    width: 25px;
+}
+.bg-max{
+    background-image: linear-gradient(90deg, #2937f0, #9f1ae2);
+    
+}
+
+.banner{
+    margin-top: 150px;
+}
