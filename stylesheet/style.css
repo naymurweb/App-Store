@@ -13,3 +13,10 @@ svg {
 .banner{
     margin-top: 150px;
 }
+#svg2{
+    background-image: linear-gradient(90deg, #2937f0, #9f1ae2);
+    font-size: 60px;
+    width: 40px;
+    border-radius: 50%;
+    padding: 5px;
+}
